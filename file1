@@ -1,0 +1,6 @@
+This file is created in branch develop1
+a=10
+b=20
+echo "Addition of A and B"
+c = 'expr $a + $b'
+echo = the result is in c
